@@ -1,16 +1,16 @@
-## Hi there 👋
+###   
+![header](https://user-images.githubusercontent.com/your_image_link.png)
 
-<!--
-**yoooyii/yoooyii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+#### Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoooyii&layout=compact&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### GitHub Stats
+![Yi's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoooyii&show_icons=true&theme=tokyonight)
+
+---
+
+✨ “Exploring ideas, one project at a time.” ✨
