@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=#130067FF&center=true&vCenter=true&width=520&lines=404+Perfection+Not+Found" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=800&color=0067FF&center=true&vCenter=true&width=520&lines=404+Perfection+Not+Found" />
 </p>
 
 ---
